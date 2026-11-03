@@ -1,17 +1,66 @@
-# vyora_tech
+# VYORA Tech
 
-A new Flutter project.
+VYORA Tech is a Flutter-based mobile application developed as a Computer Science project. The application features user authentication interfaces designed to provide users with a simple and accessible experience.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Login Screen:** Provides an interface for existing users to log in.
+- **Registration Screen:** Allows new users to access the registration interface.
+- **User-Friendly Interface:** Simple and organized mobile application design.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+### Login Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Login Screen](screenshots/login.png)
+
+### Registration Screen
+
+![Registration Screen](screenshots/signup.png)
+
+## Technologies Used
+
+- Flutter
+- Dart
+- Android Studio
+- Visual Studio Code
+- Git
+- GitHub
+
+## Installation and Setup
+
+To run this project on your computer:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/Vicky2008ll/vyora_tech.git
+   ```
+
+2. Enter the project directory:
+
+   ```bash
+   cd vyora_tech
+   ```
+
+3. Install the dependencies:
+
+   ```bash
+   flutter pub get
+   ```
+
+4. Run the application:
+
+   ```bash
+   flutter run
+   ```
+
+## Project Repository
+
+[GitHub Repository – VYORA Tech](https://github.com/Vicky2008ll/vyora_tech)
+
+## Author
+
+**Victory Francis Erioluwa**
+
+Computer Science Department
